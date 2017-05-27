@@ -94,7 +94,7 @@
 * 所以执行上面的代码有的麻烦，那么就在根目录下创建一个webpack的配置js文件，可以当做是js的一个模块。
 
 ```js
-	module.exports = {
+   module.exports = {
       entry:  __dirname + "/src/app.js", //已多次提及的唯一入口文件
       output: {
         path: __dirname + "/js",//打包后的文件存放的地方
