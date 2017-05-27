@@ -68,7 +68,7 @@
 
 ###### 接下来用webpack打包：
 ```js
-	webpack src/app.js js  js/index.js
+    webpack src/app.js js  js/index.js
 ```
 
 命令行执行效果：
