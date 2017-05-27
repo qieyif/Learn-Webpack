@@ -7,7 +7,7 @@
 ## webpack安装
 
 ```javascript
-	//全局安装
+    //全局安装
     npm install -g webpack
 
 ```
@@ -17,13 +17,13 @@
 第一步：创建  ***package.json*** 文件
 
 ```javascript
-	//初始化一个项目
-	npm init
+     //初始化一个项目
+     npm init
 ```
 第二步：本地安装 ***webpack*** 
 
 ```javascript
-	//本地安装webpack 同时--save-dev 保存到packag.json文件中的开发依赖中 以后再次使用直接执行 npm install即可
+    //本地安装webpack 同时--save-dev 保存到packag.json文件中的开发依赖中 以后再次使用直接执行 npm install即可
     npm install --save-dev webpack
 ```
 ---
