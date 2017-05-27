@@ -1,0 +1,22 @@
+{
+  "name": "program-wenpack-demo",
+  "version": "1.0.0",
+  "description": "this is learning webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qieyif/Learn-Webpack.git"
+  },
+  "author": "qieyif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qieyif/Learn-Webpack/issues"
+  },
+  "homepage": "https://github.com/qieyif/Learn-Webpack#readme",
+  "devDependencies": {
+    "webpack": "^2.6.1"
+  }
+}
